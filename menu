@@ -1,0 +1,5 @@
+prog "Terminal" "" xfce4-terminal
+prog "Browser" "" firefox
+prog "Files" "" thunar
+separator
+menuprog "Programs" folder icewm-menu-fdo
